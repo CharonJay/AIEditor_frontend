@@ -7,6 +7,7 @@ import 'element-plus/theme-chalk/index.css'
 import * as ElementPlusIcons from '@element-plus/icons-vue'
 import axios from 'axios';
 
+// @ts-ignore
 import router from './router';
 
 import 'element-plus/theme-chalk/index.css'
